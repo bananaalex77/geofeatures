@@ -1,0 +1,24 @@
+        {
+            "features": [
+                {
+                    "name": "Water",
+                    "description": "Most of the world’s population lives near water because more accessible and more financially stable It is cheaper to transport goods over water than land, therefore civilization grew where trade was easiest Water supports both agriculture and urban communities, also a stable source of water to drink. It can also generate electricity through hydroelectric dams."
+                },
+                {
+                    "name": "Religion",
+                    "description": "Religions have always been based on what happens in a person's environment. Without the help of geography, religion would be much different."
+                },
+                {
+                    "name": "Location",
+                    "description": "The geographical location includes many factors, such as climate and topography. This is for more general patterns that can't be put under a single section."
+                },
+                {
+                    "name": "Mountain",
+                    "description": "Almost all rivers originate from mountains. According to Viviroli 2007, over 50% of the Earth’s mountain areas are vital for supplying water to the adjacent lowlands for household consumption, agricultural activities, electricity generation and industrial use. Besides water, mountains house a high level of biological and agricultural diversity including food, fibers and medicinal plants."
+                },
+                {
+                    "name": "Tourism",
+                    "description": "Tourism is a geographic phenomenon since it involves people interacting with the environment and vice versa. Factors such as accessibility and safety influence whether people go there, along with its attractions. As a result, it helps boost the local economy, creating jobs and attracting investment. Ideas are also carried, as they might have tourists absorb part of their culture."
+                }
+            ]
+        }
